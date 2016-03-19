@@ -1,4 +1,4 @@
-lock '3.1.0'
+lock '3.4.0'
 # application name and the github repository
 set :application, 'pruebac'
 set :repo_url, 'git@github.com:xgiosebsx/pruebac.git'
