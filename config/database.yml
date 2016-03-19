@@ -26,5 +26,4 @@ production:
   encoding: unicode
   database: activerecord_railstemplate_production
   pool: 5
-  username:
-  password:
+
