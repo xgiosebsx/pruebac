@@ -1,7 +1,7 @@
 lock '3.1.0'
 # application name and the github repository
 set :application, 'pruebac'
-set :repo_url, 'git@github.com:YourGitHubName/YourRepoName.git'
+set :repo_url, 'git@github.com:xgiosebsx/pruebac.git'
 
 # describe the rbenv environment we are deploying into
 set :rbenv_type, :user
